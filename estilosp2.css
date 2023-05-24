@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#contenedor{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+}
+.cuadro1{
+    display: flex;
+    background-color: green;
+    width: 33.33%;
+    align-items: stretch;
+}
+.cuadro2{
+    display: flex;
+    background-color: white;
+    width: 33.33%;
+    align-items: center;
+    justify-content: center;
+ 
+}
+.cuadro2 img {
+    width: 200px;
+}
+.cuadro3{
+    display: flex;
+    background-color: red;
+    width: 33.33%;
+    align-items: stretch;
+
+}
